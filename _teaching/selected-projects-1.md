@@ -1,7 +1,5 @@
 ---
 title: "Selected Projects  1"
-collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/selected-projects-1
 venue: "Genome Life science"
 location: "Chennai, India"

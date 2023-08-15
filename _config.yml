@@ -216,8 +216,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      read_time: true
       comments: true
+      share: true
+      related: true
   # _publications
   - scope:
       path: ""

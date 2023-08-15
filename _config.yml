@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vinu Manikandan"
   avatar           : "profile.png"
-  bio              : "1.5+ decades of experience as bioinformatics professional in industrial and academic settings in data analysis for first and second-generation technologies, development of web based tools with strong research publications in peer-reviewed journals"
+  bio              : "Bioinformatics professional in industrial and academic settings in data analysis for first and second-generation technologies, development of web based tools with strong research publications in peer-reviewed journals"
   location         : "Abu dhabi, UAE"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term==vinu+manikandan&sort=date"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

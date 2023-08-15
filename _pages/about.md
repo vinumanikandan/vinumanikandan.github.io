@@ -19,6 +19,27 @@ KEY AREA
 * De-multiplexing, Quality analysis of NGS Data(illumina HiSeq & MiSeq) Conducting training and mentoring students for capstone projects
   
 
+KNOWLEDGE & SKILLS
+======================
+**NGS Data:** 454, illumina(HiSeq & MiSeq) 10x
+
+**Array Data:**  Infinium methylation EPIC array & OmniExpress, Thermofisher Axiom array 
+
+**NGS Analysis:**  RNA-Seq (bulk & sc), WGS, QTL
+
+**Tools:**  SAMtools, Bowtie 2, BWA, STAR, HISAT2, GATK, MACS2, featureCounts, HTseq-Count, Cufflinks, DESeq2, plink, MatrixQTL, Genesis, Varseq
+
+**Single Cell Analysis:**  scRNA-seq (Seurat), scATAC-seq (signac),Demuxlet 
+
+**Pipeline Management:** BioSails, Nextflow
+
+**Workload Manager :**  LSF, slurm
+
+**Web Development:**  HTML, CSS, Javascript
+
+**Programming:** Perl, R, SQL, Bash scripting, Python
+
+
 WORK EXPERIENCE
 ===================
 **Sep 2021 – Present**: Research Associate, Public Health Research Center, NYUAD
@@ -35,27 +56,11 @@ WORK EXPERIENCE
 EDUCATIONAL QUALIFICATION
 =============================
 **2005-2007 M.Sc, Bioinformatics**, Amrita Vishwa Vidyapeetham, India 
-Thesis: ExDom: an integrated database for comparative analysis of the exon–intron structures of protein domains in eukaryotes   (Published in NAR)
 
+    Thesis: ExDom: an integrated database for comparative analysis of the exon–intron structures of protein domains in eukaryotes    (Published in NAR)
 
 **2002-2005 B.Sc, Biotechnology**, Bharathiar University, India.
 
-
-KNOWLEDGE & SKILLS
-======================
-**NGS Data:** 454, illumina(HiSeq & MiSeq) 10x
-
-**Array Data:**  Infinium methylation EPIC array & OmniExpress, Thermofisher Axiom array Programming: Perl, R, SQL, Bash scripting, Python
-
-**NGS Analysis:**  RNA-Seq (bulk & sc), WGS, QTL
-
-**Tools:**  SAMtools, Bowtie 2, BWA, STAR, HISAT2, GATK, MACS2, featureCounts, HTseq-Count, Cufflinks, DESeq2, plink, MatrixQTL, Genesis, Varseq
-
-**Single Cell Analysis:**  scRNA-seq (Seurat), scATAC-seq (signac),Demuxlet Pipeline Management: BioSails, Nextflow
-
-**Workload Manager :**  LSF, slurm
-
-**Web Development:**  HTML, CSS, Javascript
 
 CERTIFICATIONS & TRAINING
 ===========================

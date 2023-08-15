@@ -3,7 +3,7 @@ title: "Selected Projects 2"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/selected-projects-2
-venue: "SciGenom Labs
+venue: "SciGenom Labs"
 date: 2015-01-01
 location: "Cochin, India"
 ---

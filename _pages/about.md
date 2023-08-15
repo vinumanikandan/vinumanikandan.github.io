@@ -21,7 +21,7 @@ KEY AREA
 
 WORK EXPERIENCE
 ===================
-**Sep 2021 – Present**: Research Associate, Public Health Research Center, NYUAD 
+**Sep 2021 – Present**: Research Associate, Public Health Research Center, NYUAD
 
 **Jan 2016 – Aug 2021**: Research Technician (Bioinformatics), NYUAD, UAE
 

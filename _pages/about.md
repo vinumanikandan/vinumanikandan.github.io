@@ -25,7 +25,9 @@ WORK EXPERIENCE
 
 **Mar 2014–Dec 2015**: Technical specialist (Bioinformatics), KAUST, KSA
 
-**Feb 2011–Jan 2014**: Associate bioinformatics analyst, SciGenom Labs. India July 2007–Jan 2011: Sr. Bioinformatics programmer, Genome Life science, India
+**Feb 2011–Jan 2014**: Associate bioinformatics analyst, SciGenom Labs. India 
+
+**July 2007–Jan 2011**: Sr. Bioinformatics programmer, Genome Life science, India
 
 
 EDUCATIONAL QUALIFICATION

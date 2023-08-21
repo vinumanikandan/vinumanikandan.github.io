@@ -4,8 +4,9 @@ title: "Vinu Manikandan"
 excerpt: "Publications"
 author_profile: true
 redirect_from: 
-  - /publications/
+  - /articles/
   - /publications.html
+  - /articles.html
 ---
 
 test page

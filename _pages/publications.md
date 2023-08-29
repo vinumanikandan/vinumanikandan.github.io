@@ -1,13 +1,12 @@
 ---
-permalink: /
-title: "Publications"
-excerpt: "Publications"
+layout: archive
+title: "CV"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
-  - /articles.html
+redirect_from:
+  - /resume
 ---
+
 
 2023
 =====

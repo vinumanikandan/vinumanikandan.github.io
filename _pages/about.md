@@ -57,7 +57,7 @@ EDUCATIONAL QUALIFICATION
 =============================
 **2005-2007 M.Sc, Bioinformatics**, Amrita Vishwa Vidyapeetham, India 
 
-    Thesis: ExDom: an integrated database for comparative analysis of the exon–intron structures of protein domains in eukaryotes    (Published in NAR)
+*Thesis: ExDom: an integrated database for comparative analysis of the exon–intron structures of protein domains in eukaryotes (Published in NAR)*
 
 **2002-2005 B.Sc, Biotechnology**, Bharathiar University, India.
 

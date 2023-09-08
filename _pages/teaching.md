@@ -13,11 +13,11 @@ redirect_from:
 Sep 2021 – PRESENT Research Associate (Bioinformatics) ,PHRC, NYUAD
 ====================================================
 
-* Analysis of 10,000 Axiom Genotyping datasets for UAE Healthy Future study
+* Analysis of 10,000 Axiom Genotyping dataset
 
-* Comparative analysis of 10,000 UAEHFS with 1000 Genome
+* Comparative analysis of 10,000  with 1000 Genome
 
-* Analysis of 1,000 WGS UAEHFS gVCF’s
+* Analysis of 1,000 WGS gVCF’s
 
 * Systems genetics identifies miRNA-mediated regulation of host response in COVID-19 Ø mRNA-QTL analysis for host response in COVID-19
 

@@ -11,6 +11,8 @@ redirect_from:
 
 2023
 =====
+Son GY, Tu NH, Santi MD, Loya Lopez S, Souza Bomfim GH, **Vinu M**,, Zhou F, Chaloemtoem A, Alhariri R, Idaghdour Y, Khanna R, Ye Y, Lacruz RS. The Ca2+ channel ORAI1 is a regulator of oral cancer growth and nociceptive pain. Sci Signal. 2023 Sep 5;16(801):eadf9535. doi: 10.1126/scisignal.adf9535. Epub 2023 Sep 5. PMID: 37669398.
+
 Dareen Almojil, Aïssatou Diawara, Issiaka SOULAMA, Mame Massar Dieng, **Manikandan Vinu**, Samuel S Sermé, Salif Sombié, Amidou Diarra, Aissata Barry, Sam Aboubacar Coulibaly, Sodiomon B. Sirima,Youssef Idaghdour. Metabolome modulation of the host adaptive immunity in human malaria. Frontiers in Genetics, (2023) Volume 14 - 2023. doi: 10.3389/fgene.2023.1197933
 
 Gjorgjieva, T, Chaloemtoem, A, Shahin, T, Bayaraa, O, Dieng, M. M, AlShaikh, M., AlBaqi, M.A, Monte, J. D, Begum, G, Leonor, C, **Manikandan, V**, Drou, N, Arshad, M, Arnoux, M, Kumar, N, Jabari, A, Abdulle, A, ElGhazali, G, Ali, R, Shaheen S. Y, Abdalla, J, Piano, F, Gunsalus, K.C , Daggag, H, Al Nahdi, H, Abuzeid, H, Idaghdour, Y. Systems genetics identifies miRNA-mediated regulation of host response in a diverse cohort of COVID-19 patients in the UAE. Genome Medicine (2023)

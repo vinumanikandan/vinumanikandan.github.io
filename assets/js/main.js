@@ -67,28 +67,17 @@
   /* ---------- DNA helix canvas ---------- */
   (function helix() {
     const cv = $("#helix"), ctx = cv.getContext("2d");
-    let w, h, dpr, t = 0, running = true, letters = [];
+    let w, h, dpr, t = 0, running = true;
     const css = () => getComputedStyle(root);
     function resize() {
       dpr = Math.min(devicePixelRatio || 1, 2);
       w = cv.clientWidth; h = cv.clientHeight;
       cv.width = w * dpr; cv.height = h * dpr;
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      letters = Array.from({ length: Math.round(w / 40) }, () => ({
-        x: Math.random() * w, y: Math.random() * h, v: .15 + Math.random() * .35,
-        c: "ATCG"[Math.floor(Math.random() * 4)], s: 10 + Math.random() * 6
-      }));
     }
     function draw() {
       const a = css().getPropertyValue("--helix-a").trim(), b = css().getPropertyValue("--helix-b").trim();
       ctx.clearRect(0, 0, w, h);
-      // drifting nucleotides
-      ctx.font = "600 12px JetBrains Mono, monospace";
-      letters.forEach((l) => {
-        l.y -= l.v; if (l.y < -10) { l.y = h + 10; l.x = Math.random() * w; }
-        ctx.fillStyle = `rgba(${a},0.10)`; ctx.font = `600 ${l.s}px JetBrains Mono, monospace`;
-        ctx.fillText(l.c, l.x, l.y);
-      });
       // double helix running diagonally across the right side
       const mobile = w < 820;
       const cx = mobile ? w * .5 : w * .72, amp = mobile ? 60 : 110, step = 16, len = h + 120;
@@ -101,17 +90,17 @@
         const z1 = (Math.cos(ph) + 1) / 2, z2 = 1 - z1;
         if (i % 2 === 0) {
           const g = ctx.createLinearGradient(x1, y, x2, y);
-          g.addColorStop(0, `rgba(${a},${0.08 + z1 * 0.2})`);
-          g.addColorStop(1, `rgba(${b},${0.08 + z2 * 0.2})`);
+          g.addColorStop(0, `rgba(${a},${0.05 + z1 * 0.12})`);
+          g.addColorStop(1, `rgba(${b},${0.05 + z2 * 0.12})`);
           ctx.strokeStyle = g; ctx.lineWidth = 2;
           ctx.beginPath(); ctx.moveTo(x1, y); ctx.lineTo(x2, y); ctx.stroke();
         }
-        ctx.fillStyle = `rgba(${a},${0.25 + z1 * 0.6})`;
-        ctx.beginPath(); ctx.arc(x1, y, 2 + z1 * 3.5, 0, Math.PI * 2); ctx.fill();
-        ctx.fillStyle = `rgba(${b},${0.25 + z2 * 0.6})`;
-        ctx.beginPath(); ctx.arc(x2, y, 2 + z2 * 3.5, 0, Math.PI * 2); ctx.fill();
+        ctx.fillStyle = `rgba(${a},${0.12 + z1 * 0.33})`;
+        ctx.beginPath(); ctx.arc(x1, y, 1.5 + z1 * 2.5, 0, Math.PI * 2); ctx.fill();
+        ctx.fillStyle = `rgba(${b},${0.12 + z2 * 0.33})`;
+        ctx.beginPath(); ctx.arc(x2, y, 1.5 + z2 * 2.5, 0, Math.PI * 2); ctx.fill();
       }
-      t += 0.012;
+      t += 0.005;
     }
     function loop() { if (running) draw(); requestAnimationFrame(loop); }
     resize();
